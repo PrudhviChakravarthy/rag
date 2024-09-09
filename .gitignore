@@ -1,0 +1,10 @@
+env
+/env
+.vscode
+rag.db
+files
+.env
+db
+/db
+__pycache__
+*/__pycache__

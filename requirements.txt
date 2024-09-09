@@ -1,0 +1,17 @@
+sentence-transformers
+chromadb
+langchain_community
+pymupdf
+langchain_google_genai
+langchain_anthropic
+langchain_openai
+langchain_huggingface
+gradio
+fastapi
+langchain
+pypdf 
+faiss-cpu 
+SentencePiece
+python-dotenv
+unstructured
+python-docx
