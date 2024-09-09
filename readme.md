@@ -9,7 +9,7 @@
 <br>
 
 ### Uplaod files
-![Upload files ](images/upload.png.png)
+![Upload files ](images/upload.png)
 
 This project allows you to chat with multiple AI models using the same PDF document.
 
